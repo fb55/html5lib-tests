@@ -1,0 +1,19 @@
+tokenizer/unicodeCharsProblematic.test
+  s_6a2486d54e623b::t_42aa82eaa9f099 39-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "40535fd96c388170212527fba59ca8da0676e718",
+  "prompts": {},
+  "sessions": {
+    "s_6a2486d54e623b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ad36-92ed-7850-b421-e9c0b49ddf17",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Felix Boehm <188768+fb55@users.noreply.github.com>"
+    }
+  }
+}
